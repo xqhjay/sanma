@@ -1,274 +1,274 @@
 # 奕码优化版 字根编码表 (小码=官方音托不变, 大码=优化指派)
 # 格式: 字根	编码(大+小)	拼音	音托依据	变体(形近归并)
+2	as	2	形托/约定	
 3	ap	3	形托/约定	
-长	ac	zhang	形托/约定	镸 髟 長
+齿	ac	chi	声母托	
 匚	ak	fang	形托/约定	  匸
 己	aj	ji	声母托	
 土	at	tu	声母托	
-士	as	shi	声母托	
 者	ae	zhe	韵母托	耂
 而	ae	er	声母托	
-不	ab	bu	声母托	
-斗	ad	dou	声母托	鬥
 革	ag	ge	声母托	
-谷	ag	gu	声母托	
-廴	by	yin	声母托	
+皮	ap	pi	声母托	
+	bb		部件(形托)	
+云	by	yun	声母托	
 巳	bs	si	声母托	
-韦	bw	wei	声母托	韋
 田	bt	tian	声母托	
-旦	bd	dan	声母托	
 几	bj	ji	声母托	
 艹	bc	cao	声母托	 廾 卅 卌 卝 丱  卄 
 正	be	zheng	韵母托	
 母	bm	mu	声母托	
-	cl	han	形托/约定	
-食	cs	shi	声母托	饣 飠
+	cb		部件(形托)	
 气	cq	qi	声母托	
 弓	cg	gong	声母托	
 水	cs	shui	声母托	氺   乑 
 牙	cy	ya	声母托	㸦
+吅	ch	xuan	形托/约定	㠯 回 囙
 至	ci	zhi	韵母托	
 屮	cc	che	声母托	 䶹  
 莫	cm	mo	声母托	
 象	cx	xiang	声母托	
-景	cj	jing	声母托	
 虫	cc	chong	声母托	
 卩	cj	jie	声母托	㔾  丩
-电	dd	dian	声母托	
+旦	cd	dan	声母托	
+井	dj	jing	声母托	
 采	dc	cai	声母托	釆
+三	ds	san	声母托	
 黑	dh	hei	声母托	黒
 日	dr	ri	声母托	 曰 
-申	ds	shen	声母托	
 米	dm	mi	声母托	
 骨	dg	gu	声母托	冎
 龸	dd		部件(形托)	    
+疋	df	pi	形托/约定	  龰
 鸟	dn	niao	声母托	  鳥 
+乌	du	wu	韵母托	
 1	ei	1	形托/约定	
 	ek		部件(形托)	  
+吉	ej	ji	声母托	
 山	es	shan	声母托	
 门	em	men	声母托	門
 工	eg	gong	声母托	
-戊	eu	wu	韵母托	 戉
-行	ex	xing	声母托	
-豆	ed	dou	声母托	
-甲	ej	jia	声母托	
-	fb		部件(形托)	
+用	ey	yong	声母托	
+中	eo	zhong	韵母托	
+曲	eq	qu	声母托	
+兀	eu	wu	韵母托	丌
+乍	fa	zha	韵母托	
 寸	fc	cun	声母托	
-鬲	fg	ge	声母托	
-牛	fn	niu	声母托	 牜
+亥	fh	hai	声母托	
+爪	fu	zhao	形托/约定	爫
 目	fm	mu	声母托	
 舌	fs	she	声母托	
 耳	fe	er	声母托	阝
 冫	fb	bing	声母托	 
 勹	fb	bao	声母托	
-无	fu	wu	韵母托	無 旡 兂
-	gb		部件(形托)	
-㡀	gb	bi	声母托	
-乍	ga	zha	韵母托	
-二	ge	er	声母托	
-曲	gq	qu	声母托	
-西	gx	xi	声母托	覀 襾
+龙	fl	long	声母托	
+五	fu	wu	韵母托	
+其	gq	qi	声母托	
 壴	gu	zhu	韵母托	
+豸	gi	zhi	韵母托	
+鹿	gl	lu	声母托	 
 川	gc	chuan	声母托	巛 巜 
 冂	gk	jiong	形托/约定	   凵
 女	gn	nv	声母托	
 合	gh	he	声母托	亼
-酉	gy	you	声母托	
 酋	gq	qiu	声母托	
+四	gs	si	声母托	罒
 直	gi	zhi	韵母托	
 朿	gc	ci	声母托	
-2	hs	2	形托/约定	
+	hk		部件(形托)	
 殳	hs	shu	声母托	
-豸	hi	zhi	韵母托	
+甲	hj	jia	声母托	
+由	hy	you	声母托	
 小	hx	xiao	声母托	   
 手	hs	shou	声母托	龵     扌
 卜	hb	bo	声母托	
 乂	hi	yi	韵母托	㐅 乄
-皮	hp	pi	声母托	
 民	hm	min	声母托	
-毋	hu	wu	韵母托	
-	hy		部件(形托)	
+责	he	ze	韵母托	
 毛	im	mao	声母托	
 甫	if	fu	声母托	
-卵	il	luan	声母托	
-百	ib	bai	声母托	
+册	ic	ce	声母托	冊  
+电	id	dian	声母托	
 羊	iy	yang	声母托	   
 彡	is	shan	声母托	 
 力	il	li	声母托	
 言	iy	yan	声母托	讠 訁
-束	is	shu	声母托	
-乌	iu	wu	韵母托	
 高	ig	gao	声母托	  
-羽	iv	yu	ü→v韵托	
-	ic		部件(形托)	
-豕	js	shi	声母托	
+冖	ib	mi	形托/约定	
 巴	jb	ba	声母托	
 口	jk	kou	声母托	
 彳	jc	chi	声母托	 亍
+斗	jd	dou	声母托	鬥
+文	jw	wen	声母托	
+谷	jg	gu	声母托	
 林	jl	lin	声母托	
-三	ks	san	声母托	
-疋	kf	pi	形托/约定	  龰
+片	kp	pian	声母托	 丬 爿  
+更	kg	geng	声母托	
+豆	kd	dou	声母托	
 人	kr	ren	声母托	 入
 立	kl	li	声母托	  
 竹	ku	zhu	韵母托	 
 且	kq	qie	声母托	
 儿	ke	er	声母托	
 大	kd	da	声母托	
-求	lq	qiu	声母托	
-亥	lh	hai	声母托	
+景	kj	jing	声母托	
+矛	km	mao	声母托	
+习	kx	xi	声母托	
+	ll	han	形托/约定	
+了	ll	le	声母托	
+卯	lm	mao	声母托	  
+卵	ll	luan	声母托	
 音	ly	yin	声母托	
-尤	ly	you	声母托	尢
 宀	lb	mian	形托/约定	
-舟	lo	zhou	韵母托	
 夂	lx	zhi	形托/约定	夊 攵 
 示	ls	shi	声母托	礻
-辛	mx	xin	声母托	
-由	my	you	声母托	
-兀	mu	wu	韵母托	丌
+开	lk	kai	声母托	
+亠	mt	tou	声母托	
 户	mh	hu	声母托	戶  戸
-可	mk	ke	声母托	
 皿	mm	min	声母托	
+毋	mu	wu	韵母托	
 亻	mr	ren	声母托	
-九	mj	jiu	声母托	
 艮	mg	gen	声母托	
 	me		部件(形托)	
 	nd		部件(形托)	
 弋	ni	yi	韵母托	
 亦	ni	yi	韵母托	
+㡀	nb	bi	声母托	
 匕	nb	bi	声母托	   
-末	nm	mo	声母托	
+面	nm	mian	声母托	
+廴	ny	yin	声母托	
+走	no	zou	韵母托	
 六	nl	liu	声母托	
 斤	nj	jin	声母托	
-龙	nl	long	声母托	
 矢	ns	shi	声母托	
 心	nx	xin	声母托	忄 
 夫	nf	fu	声母托	龹
-曼	om	man	声母托	
 辶	od	chuo	形托/约定	
 厶	os	si	声母托	龴 
 氵	os	shui	声母托	
 各	og	ge	声母托	
 彐	ow	ji	形托/约定	   彑
-四	os	si	声母托	罒
-寺	ps	si	声母托	
-丂	pk	kao	声母托	
-臼	pj	jiu	声母托	
+束	os	shu	声母托	
+食	ps	shi	声母托	饣 飠
+见	pj	jian	声母托	
 甘	pg	gan	声母托	
-其	pq	qi	声母托	
-亠	pt	tou	声母托	
+廿	pn	nian	声母托	龷
 非	pf	fei	声母托	
 刀	pd	dao	声母托	  刂  
 犬	pq	quan	声母托	犭
-句	pj	ju	声母托	
 自	pi	zi	韵母托	
-也	py	ye	声母托	
+舟	po	zhou	韵母托	
 占	pa	zhan	韵母托	
-缶	pf	fou	声母托	
+夕	px	xi	声母托	
 角	qj	jiao	声母托	  
 戈	qg	ge	声母托	
 丰	qf	feng	声母托	 龶  
 贝	qb	bei	声母托	
-足	qu	zu	韵母托	
+曼	qm	man	声母托	
+西	qx	xi	声母托	覀 襾
 上	qs	shang	声母托	
 车	qc	che	声母托	 車
 未	qw	wei	声母托	
+已	qi	yi	韵母托	
 玉	qv	yu	ü→v韵托	
-鱼	qv	yu	ü→v韵托	魚
+酉	qy	you	声母托	
+缶	qf	fou	声母托	
 又	ry	you	声母托	
 穴	rx	xue	声母托	
 马	rm	ma	声母托	馬
 隹	ru	zhui	韵母托	
 令	rl	ling	声母托	亽
 内	rn	nei	声母托	 禸
-齿	rc	chi	声母托	
-瓜	rg	gua	声母托	
-已	ri	yi	韵母托	
-吅	rh	xuan	形托/约定	㠯 回 囙
+求	rq	qiu	声母托	
+牛	rn	niu	声母托	 牜
+止	ri	zhi	韵母托	 
 白	rb	bai	声母托	
-	sy		部件(形托)	
-吉	sj	ji	声母托	
-中	so	zhong	韵母托	
+	ry		部件(形托)	
+鬲	sg	ge	声母托	
 木	sm	mu	声母托	朩 
 丷	sb	ba	声母托	䒑
+韦	sw	wei	声母托	韋
+可	sk	ke	声母托	
 毌	sg	guan	声母托	
-	ta		部件(形托)	
 双	ts	shuang	声母托	
 金	tj	jin	声母托	钅 
-云	ty	yun	声母托	
 页	ty	ye	声母托	頁   
 八	tb	ba	声母托	癶   
-幺	ty	yao	声母托	
+行	tx	xing	声母托	
+瓜	tg	gua	声母托	
+句	tj	ju	声母托	
 千	tq	qian	声母托	
+比	tb	bi	声母托	
+予	tv	yu	ü→v韵托	
 㐄	ty	kua	形托/约定	
 尸	ts	shi	声母托	 
 	uk		部件(形托)	
 子	ui	zi	韵母托	
-廿	un	nian	声母托	龷
 十	us	shi	声母托	
 石	us	shi	声母托	
 右	uy	you	声母托	  
+长	uc	zhang	形托/约定	镸 髟 長
+尤	uy	you	声母托	尢
 歹	ud	dai	声母托	歺  攴
 虍	uh	hu	声母托	
-开	uk	kai	声母托	
 圭	ug	gui	声母托	
-习	ux	xi	声母托	
 天	ut	tian	声母托	夭
+	uc		部件(形托)	
 	vc		部件(形托)	 
-井	vj	jing	声母托	
-用	vy	yong	声母托	
-片	vp	pian	声母托	 丬 爿  
-册	vc	ce	声母托	冊  
+豕	vs	shi	声母托	
+乡	vx	xiang	声母托	
+末	vm	mo	声母托	
+士	vs	shi	声母托	
+不	vb	bu	声母托	
 七	vq	qi	声母托	 
-五	vu	wu	韵母托	
 王	vw	wang	声母托	 壬 ⺩
 月	vy	yue	声母托	   冃 
-生	vs	sheng	声母托	
+九	vj	jiu	声母托	
 5	we	5	形托/约定	
 6	wi	6	形托/约定	
 禾	wh	he	声母托	 
 厂	wc	chang	声母托	
-臣	wc	chen	声母托	 
-面	wm	mian	声母托	
+二	we	er	声母托	
 鼠	ws	shu	声母托	  鼡
-更	wg	geng	声母托	
+百	wb	bai	声母托	
+申	ws	shen	声母托	
+鱼	wv	yu	ü→v韵托	魚
 聿	wv	yu	ü→v韵托	肀     
-文	ww	wen	声母托	
-冖	wb	mi	形托/约定	
-予	wv	yu	ü→v韵托	
 里	wl	li	声母托	圼
-	xk		部件(形托)	
+瓦	ww	wa	声母托	
+	xa		部件(形托)	
+寺	xs	si	声母托	
+臣	xc	chen	声母托	 
+丂	xk	kao	声母托	
+幺	xy	yao	声母托	
 疒	xb	ne	形托/约定	
+也	xy	ye	声母托	
 身	xs	shen	声母托	
 广	xg	guang	声母托	
 古	xg	gu	声母托	
 火	xh	huo	声母托	灬
-夕	xx	xi	声母托	
-比	xb	bi	声母托	
-矛	xm	mao	声母托	
 之	xi	zhi	韵母托	
 欠	xq	qian	声母托	
-责	xe	ze	韵母托	
+	yy		部件(形托)	
 及	yj	ji	声母托	
 方	yf	fang	声母托	
+臼	yj	jiu	声母托	
 衣	yi	yi	韵母托	    衤
 纟	ys	si	声母托	糸  糹
-乡	yx	xiang	声母托	
-卯	ym	mao	声母托	  
 亡	yw	wang	声母托	亾 兦 吂
-鹿	yl	lu	声母托	 
+辛	yx	xin	声母托	
+无	yu	wu	韵母托	無 旡 兂
 乃	yn	nai	声母托	
 召	ya	zhao	韵母托	
 4	zd	4	形托/约定	
-见	zj	jian	声母托	
+足	zu	zu	韵母托	
 雨	zv	yu	ü→v韵托	
 丁	zd	ding	声母托	
-了	zl	le	声母托	
-爪	zu	zhao	形托/约定	爫
-走	zo	zou	韵母托	
+戊	zu	wu	韵母托	 戉
 囗	zk	wei	形托/约定	
-止	zi	zhi	韵母托	 
 干	zg	gan	声母托	
 巾	zj	jin	声母托	
 辰	zc	chen	声母托	
+生	zs	sheng	声母托	
+羽	zv	yu	ü→v韵托	
 业	zy	ye	声母托	    
-瓦	zw	wa	声母托	
