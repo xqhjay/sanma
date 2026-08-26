@@ -1,0 +1,17 @@
+[relief] N=8230 R=272 weights={'w_m1': 25.0, 'w_m2': 300.0, 'w_m3': 30.0}
+[relief] init: M1=608 C15=0 M2=24 M3=342
+  step      0 T= 200.0 cur=12415 best=12415 M1=495 C15=0 M2=3 M3=233
+  step  20000 T=  86.6 cur=15860 best=12415 M1=470 C15=0 M2=0 M3=357
+  step  40000 T=  37.5 cur=12755 best=12415 M1=497 C15=0 M2=0 M3=276
+  step  60000 T=  16.2 cur=9270 best=9195 M1=532 C15=0 M2=0 M3=189
+  step  80000 T=   7.0 cur=8415 best=8395 M1=541 C15=0 M2=0 M3=168
+  step 100000 T=   3.0 cur=7800 best=7800 M1=550 C15=0 M2=0 M3=155
+[relief] phase1 done (924s): M1=551 C15=0 M2=0 M3=153
+  step      0 T=   8.0 cur=7715 best=7715 M1=551 C15=0 M2=0 M3=153
+  step  20000 T=   2.6 cur=7640 best=7640 M1=554 C15=0 M2=0 M3=153
+  step  40000 T=   0.8 cur=7600 best=7600 M1=552 C15=0 M2=0 M3=150
+  step  60000 T=   0.3 cur=7575 best=7575 M1=553 C15=0 M2=0 M3=150
+[relief] phase2 done (1501s): M1=553 C15=0 M2=0 M3=150
+  polish round 0: 冲突961 改善0 score=7575 M1=553 C15=0 M2=0 M3=150
+[relief] FINAL({'w_m1': 25.0, 'w_m2': 300.0, 'w_m3': 30.0}): M1=553 C15=0 M2=0 M3=150
+[relief] saved big_relief.npy (1806s)

@@ -1,0 +1,15 @@
+[m1max] N=8230 R=272 weights={'w_m1': 3000.0, 'w_m2': 200.0, 'w_m3': 20.0}
+[m1max] init: M1=676 C15=0 M2=10 M3=428
+  step      0 T=  40.0 cur=10560 best=10560 M1=676 C15=0 M2=10 M3=428
+  step  20000 T=  15.1 cur=10960 best=10560 M1=676 C15=0 M2=10 M3=448
+  step  40000 T=   5.7 cur=9020 best=9020 M1=676 C15=0 M2=6 M3=391
+  step  60000 T=   2.2 cur=8760 best=8760 M1=676 C15=0 M2=5 M3=388
+  step  80000 T=   0.8 cur=8680 best=8680 M1=676 C15=0 M2=5 M3=384
+[m1max] phase1 done (762s): M1=676 C15=0 M2=5 M3=383
+  step      0 T=   3.0 cur=8660 best=8660 M1=676 C15=0 M2=5 M3=383
+  step  20000 T=   1.0 cur=8660 best=8660 M1=676 C15=0 M2=5 M3=383
+  step  40000 T=   0.3 cur=8560 best=8560 M1=676 C15=0 M2=5 M3=378
+[m1max] phase2 done (1262s): M1=676 C15=0 M2=5 M3=375
+  polish round 0: 冲突1199 改善0 score=8500 M1=676 C15=0 M2=5 M3=375
+[m1max] FINAL({'w_m1': 3000.0, 'w_m2': 200.0, 'w_m3': 20.0}): M1=676 C15=0 M2=5 M3=375
+[m1max] saved big_m1max.npy (1708s)
