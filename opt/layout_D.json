@@ -1,0 +1,2495 @@
+{
+ "base": [
+  {
+   "code": "ei",
+   "primary": "1",
+   "elements": [
+    "1"
+   ],
+   "newCode": "ei"
+  },
+  {
+   "code": "cs",
+   "primary": "2",
+   "elements": [
+    "2",
+    "四",
+    "罒"
+   ],
+   "newCode": "ts"
+  },
+  {
+   "code": "ap",
+   "primary": "3",
+   "elements": [
+    "3"
+   ],
+   "newCode": "bp"
+  },
+  {
+   "code": "zd",
+   "primary": "4",
+   "elements": [
+    "4"
+   ],
+   "newCode": "zd"
+  },
+  {
+   "code": "we",
+   "primary": "5",
+   "elements": [
+    "5"
+   ],
+   "newCode": "we"
+  },
+  {
+   "code": "wi",
+   "primary": "6",
+   "elements": [
+    "6"
+   ],
+   "newCode": "wi"
+  },
+  {
+   "code": "zx",
+   "primary": "象",
+   "elements": [
+    "",
+    "象"
+   ],
+   "newCode": "kx"
+  },
+  {
+   "code": "fk",
+   "primary": "",
+   "elements": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "gk"
+  },
+  {
+   "code": "gb",
+   "primary": "",
+   "elements": [
+    "",
+    ""
+   ],
+   "newCode": "gb"
+  },
+  {
+   "code": "ia",
+   "primary": "",
+   "elements": [
+    ""
+   ],
+   "newCode": "wa"
+  },
+  {
+   "code": "nb",
+   "primary": "",
+   "elements": [
+    "",
+    "白"
+   ],
+   "newCode": "xb"
+  },
+  {
+   "code": "nd",
+   "primary": "",
+   "elements": [
+    ""
+   ],
+   "newCode": "td"
+  },
+  {
+   "code": "sk",
+   "primary": "",
+   "elements": [
+    "",
+    ""
+   ],
+   "newCode": "wk"
+  },
+  {
+   "code": "vc",
+   "primary": "",
+   "elements": [
+    "",
+    "",
+    ""
+   ],
+   "newCode": "xc"
+  },
+  {
+   "code": "yy",
+   "primary": "",
+   "elements": [
+    "",
+    "幺",
+    ""
+   ],
+   "newCode": "sy"
+  },
+  {
+   "code": "qj",
+   "primary": "角",
+   "elements": [
+    "角",
+    "吉",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "qj"
+  },
+  {
+   "code": "qg",
+   "primary": "戈",
+   "elements": [
+    "戈",
+    ""
+   ],
+   "newCode": "og"
+  },
+  {
+   "code": "qi",
+   "primary": "弋",
+   "elements": [
+    "弋",
+    "亦",
+    ""
+   ],
+   "newCode": "ni"
+  },
+  {
+   "code": "qf",
+   "primary": "丰",
+   "elements": [
+    "丰",
+    "",
+    "龶",
+    "",
+    ""
+   ],
+   "newCode": "tf"
+  },
+  {
+   "code": "qb",
+   "primary": "贝",
+   "elements": [
+    "贝"
+   ],
+   "newCode": "qb"
+  },
+  {
+   "code": "qk",
+   "primary": "",
+   "elements": [
+    "",
+    ""
+   ],
+   "newCode": "dk"
+  },
+  {
+   "code": "ql",
+   "primary": "",
+   "elements": [
+    ""
+   ],
+   "newCode": "ql"
+  },
+  {
+   "code": "qm",
+   "primary": "曼",
+   "elements": [
+    "曼"
+   ],
+   "newCode": "rm"
+  },
+  {
+   "code": "wb",
+   "primary": "㡀",
+   "elements": [
+    "㡀",
+    "匕",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "hb"
+  },
+  {
+   "code": "ws",
+   "primary": "食",
+   "elements": [
+    "食",
+    "寺",
+    "饣",
+    "飠"
+   ],
+   "newCode": "fs"
+  },
+  {
+   "code": "wh",
+   "primary": "禾",
+   "elements": [
+    "禾",
+    "",
+    ""
+   ],
+   "newCode": "wh"
+  },
+  {
+   "code": "wj",
+   "primary": "井",
+   "elements": [
+    "井",
+    ""
+   ],
+   "newCode": "cj"
+  },
+  {
+   "code": "wc",
+   "primary": "厂",
+   "elements": [
+    "厂",
+    ""
+   ],
+   "newCode": "zc"
+  },
+  {
+   "code": "eu",
+   "primary": "足",
+   "elements": [
+    "足",
+    ""
+   ],
+   "newCode": "ku"
+  },
+  {
+   "code": "es",
+   "primary": "山",
+   "elements": [
+    "山"
+   ],
+   "newCode": "as"
+  },
+  {
+   "code": "em",
+   "primary": "门",
+   "elements": [
+    "门",
+    "毛",
+    "門"
+   ],
+   "newCode": "pm"
+  },
+  {
+   "code": "ec",
+   "primary": "臣",
+   "elements": [
+    "臣",
+    "",
+    ""
+   ],
+   "newCode": "qc"
+  },
+  {
+   "code": "eg",
+   "primary": "工",
+   "elements": [
+    "工"
+   ],
+   "newCode": "pg"
+  },
+  {
+   "code": "ek",
+   "primary": "丂",
+   "elements": [
+    "丂"
+   ],
+   "newCode": "vk"
+  },
+  {
+   "code": "ej",
+   "primary": "见",
+   "elements": [
+    "见"
+   ],
+   "newCode": "xj"
+  },
+  {
+   "code": "ey",
+   "primary": "用",
+   "elements": [
+    "用",
+    ""
+   ],
+   "newCode": "uy"
+  },
+  {
+   "code": "ra",
+   "primary": "乍",
+   "elements": [
+    "乍"
+   ],
+   "newCode": "ua"
+  },
+  {
+   "code": "ry",
+   "primary": "又",
+   "elements": [
+    "又",
+    ""
+   ],
+   "newCode": "ry"
+  },
+  {
+   "code": "rs",
+   "primary": "双",
+   "elements": [
+    "双",
+    "豕",
+    ""
+   ],
+   "newCode": "vs"
+  },
+  {
+   "code": "rv",
+   "primary": "雨",
+   "elements": [
+    "雨",
+    ""
+   ],
+   "newCode": "cv"
+  },
+  {
+   "code": "rx",
+   "primary": "穴",
+   "elements": [
+    "穴"
+   ],
+   "newCode": "yx"
+  },
+  {
+   "code": "rm",
+   "primary": "马",
+   "elements": [
+    "马",
+    "馬"
+   ],
+   "newCode": "cm"
+  },
+  {
+   "code": "rd",
+   "primary": "丁",
+   "elements": [
+    "丁"
+   ],
+   "newCode": "yd"
+  },
+  {
+   "code": "ru",
+   "primary": "隹",
+   "elements": [
+    "隹"
+   ],
+   "newCode": "pu"
+  },
+  {
+   "code": "rj",
+   "primary": "及",
+   "elements": [
+    "及"
+   ],
+   "newCode": "fj"
+  },
+  {
+   "code": "rl",
+   "primary": "令",
+   "elements": [
+    "令",
+    "亽"
+   ],
+   "newCode": "fl"
+  },
+  {
+   "code": "ro",
+   "primary": "中",
+   "elements": [
+    "中"
+   ],
+   "newCode": "jo"
+  },
+  {
+   "code": "rn",
+   "primary": "内",
+   "elements": [
+    "内",
+    "",
+    "禸"
+   ],
+   "newCode": "rn"
+  },
+  {
+   "code": "tj",
+   "primary": "金",
+   "elements": [
+    "金",
+    "钅",
+    ""
+   ],
+   "newCode": "tj"
+  },
+  {
+   "code": "ty",
+   "primary": "云",
+   "elements": [
+    "云",
+    "页",
+    "",
+    "頁",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "ly"
+  },
+  {
+   "code": "tb",
+   "primary": "八",
+   "elements": [
+    "八",
+    "癶",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "tb"
+  },
+  {
+   "code": "tl",
+   "primary": "了",
+   "elements": [
+    "了"
+   ],
+   "newCode": "sl"
+  },
+  {
+   "code": "tm",
+   "primary": "面",
+   "elements": [
+    "面"
+   ],
+   "newCode": "ym"
+  },
+  {
+   "code": "tq",
+   "primary": "气",
+   "elements": [
+    "气",
+    ""
+   ],
+   "newCode": "uq"
+  },
+  {
+   "code": "tf",
+   "primary": "甫",
+   "elements": [
+    "甫"
+   ],
+   "newCode": "df"
+  },
+  {
+   "code": "ts",
+   "primary": "殳",
+   "elements": [
+    "殳"
+   ],
+   "newCode": "es"
+  },
+  {
+   "code": "te",
+   "primary": "二",
+   "elements": [
+    "二"
+   ],
+   "newCode": "ae"
+  },
+  {
+   "code": "yf",
+   "primary": "方",
+   "elements": [
+    "方"
+   ],
+   "newCode": "cf"
+  },
+  {
+   "code": "ys",
+   "primary": "鼠",
+   "elements": [
+    "鼠",
+    "纟",
+    "糸",
+    "",
+    "",
+    "",
+    "鼡",
+    "糹"
+   ],
+   "newCode": "ys"
+  },
+  {
+   "code": "yj",
+   "primary": "臼",
+   "elements": [
+    "臼",
+    ""
+   ],
+   "newCode": "ij"
+  },
+  {
+   "code": "yp",
+   "primary": "片",
+   "elements": [
+    "片",
+    "",
+    "丬",
+    "爿",
+    "",
+    ""
+   ],
+   "newCode": "tp"
+  },
+  {
+   "code": "yi",
+   "primary": "衣",
+   "elements": [
+    "衣",
+    "",
+    "",
+    "",
+    "",
+    "衤"
+   ],
+   "newCode": "ri"
+  },
+  {
+   "code": "yx",
+   "primary": "乡",
+   "elements": [
+    "乡"
+   ],
+   "newCode": "gx"
+  },
+  {
+   "code": "yg",
+   "primary": "甘",
+   "elements": [
+    "甘",
+    ""
+   ],
+   "newCode": "vg"
+  },
+  {
+   "code": "yc",
+   "primary": "册",
+   "elements": [
+    "册",
+    "",
+    "冊",
+    "",
+    ""
+   ],
+   "newCode": "ec"
+  },
+  {
+   "code": "yq",
+   "primary": "曲",
+   "elements": [
+    "曲"
+   ],
+   "newCode": "nq"
+  },
+  {
+   "code": "ym",
+   "primary": "卯",
+   "elements": [
+    "卯",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "bm"
+  },
+  {
+   "code": "yl",
+   "primary": "卵",
+   "elements": [
+    "卵"
+   ],
+   "newCode": "tl"
+  },
+  {
+   "code": "ub",
+   "primary": "疒",
+   "elements": [
+    "疒",
+    "百"
+   ],
+   "newCode": "eb"
+  },
+  {
+   "code": "ui",
+   "primary": "子",
+   "elements": [
+    "子"
+   ],
+   "newCode": "pi"
+  },
+  {
+   "code": "ux",
+   "primary": "西",
+   "elements": [
+    "西",
+    "覀",
+    "襾"
+   ],
+   "newCode": "cx"
+  },
+  {
+   "code": "un",
+   "primary": "廿",
+   "elements": [
+    "廿",
+    "龷"
+   ],
+   "newCode": "fn"
+  },
+  {
+   "code": "us",
+   "primary": "十",
+   "elements": [
+    "十",
+    "石",
+    ""
+   ],
+   "newCode": "us"
+  },
+  {
+   "code": "uc",
+   "primary": "寸",
+   "elements": [
+    "寸"
+   ],
+   "newCode": "wc"
+  },
+  {
+   "code": "ud",
+   "primary": "电",
+   "elements": [
+    "电",
+    ""
+   ],
+   "newCode": "cd"
+  },
+  {
+   "code": "uy",
+   "primary": "右",
+   "elements": [
+    "右",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "qy"
+  },
+  {
+   "code": "ug",
+   "primary": "鬲",
+   "elements": [
+    "鬲"
+   ],
+   "newCode": "gg"
+  },
+  {
+   "code": "iy",
+   "primary": "羊",
+   "elements": [
+    "羊",
+    "言",
+    "",
+    "",
+    "",
+    "讠",
+    "",
+    "訁"
+   ],
+   "newCode": "iy"
+  },
+  {
+   "code": "ig",
+   "primary": "弓",
+   "elements": [
+    "弓"
+   ],
+   "newCode": "rg"
+  },
+  {
+   "code": "is",
+   "primary": "上",
+   "elements": [
+    "上",
+    "彡",
+    "水",
+    "氺",
+    "",
+    "",
+    "",
+    "乑",
+    "",
+    ""
+   ],
+   "newCode": "is"
+  },
+  {
+   "code": "il",
+   "primary": "力",
+   "elements": [
+    "力",
+    ""
+   ],
+   "newCode": "il"
+  },
+  {
+   "code": "ic",
+   "primary": "长",
+   "elements": [
+    "长",
+    "采",
+    "镸",
+    "釆",
+    "髟",
+    "長"
+   ],
+   "newCode": "gc"
+  },
+  {
+   "code": "iu",
+   "primary": "戊",
+   "elements": [
+    "戊",
+    "",
+    "戉"
+   ],
+   "newCode": "yu"
+  },
+  {
+   "code": "iq",
+   "primary": "求",
+   "elements": [
+    "求"
+   ],
+   "newCode": "zq"
+  },
+  {
+   "code": "od",
+   "primary": "辶",
+   "elements": [
+    "辶"
+   ],
+   "newCode": "od"
+  },
+  {
+   "code": "oy",
+   "primary": "廴",
+   "elements": [
+    "廴"
+   ],
+   "newCode": "by"
+  },
+  {
+   "code": "os",
+   "primary": "厶",
+   "elements": [
+    "厶",
+    "氵",
+    "巳",
+    "三",
+    "龴",
+    ""
+   ],
+   "newCode": "os"
+  },
+  {
+   "code": "ob",
+   "primary": "巴",
+   "elements": [
+    "巴"
+   ],
+   "newCode": "zb"
+  },
+  {
+   "code": "og",
+   "primary": "各",
+   "elements": [
+    "各"
+   ],
+   "newCode": "ng"
+  },
+  {
+   "code": "ow",
+   "primary": "彐",
+   "elements": [
+    "彐",
+    "",
+    "",
+    "",
+    "彑"
+   ],
+   "newCode": "aw"
+  },
+  {
+   "code": "oq",
+   "primary": "其",
+   "elements": [
+    "其"
+   ],
+   "newCode": "jq"
+  },
+  {
+   "code": "pt",
+   "primary": "亠",
+   "elements": [
+    "亠"
+   ],
+   "newCode": "ft"
+  },
+  {
+   "code": "pw",
+   "primary": "亡",
+   "elements": [
+    "亡",
+    "未",
+    "亾",
+    "兦",
+    "吂"
+   ],
+   "newCode": "yw"
+  },
+  {
+   "code": "pc",
+   "primary": "车",
+   "elements": [
+    "车",
+    "",
+    "車"
+   ],
+   "newCode": "pc"
+  },
+  {
+   "code": "pu",
+   "primary": "壴",
+   "elements": [
+    "壴"
+   ],
+   "newCode": "gu"
+  },
+  {
+   "code": "pm",
+   "primary": "末",
+   "elements": [
+    "末"
+   ],
+   "newCode": "nm"
+  },
+  {
+   "code": "pf",
+   "primary": "非",
+   "elements": [
+    "非"
+   ],
+   "newCode": "kf"
+  },
+  {
+   "code": "ps",
+   "primary": "束",
+   "elements": [
+    "束"
+   ],
+   "newCode": "xs"
+  },
+  {
+   "code": "pd",
+   "primary": "刀",
+   "elements": [
+    "刀",
+    "",
+    "",
+    "刂",
+    "",
+    ""
+   ],
+   "newCode": "pd"
+  },
+  {
+   "code": "pq",
+   "primary": "犬",
+   "elements": [
+    "犬",
+    "犭"
+   ],
+   "newCode": "tq"
+  },
+  {
+   "code": "pi",
+   "primary": "豸",
+   "elements": [
+    "豸"
+   ],
+   "newCode": "di"
+  },
+  {
+   "code": "ph",
+   "primary": "亥",
+   "elements": [
+    "亥"
+   ],
+   "newCode": "yh"
+  },
+  {
+   "code": "pg",
+   "primary": "更",
+   "elements": [
+    "更"
+   ],
+   "newCode": "zg"
+  },
+  {
+   "code": "px",
+   "primary": "行",
+   "elements": [
+    "行"
+   ],
+   "newCode": "qx"
+  },
+  {
+   "code": "ay",
+   "primary": "牙",
+   "elements": [
+    "牙",
+    "㐄",
+    "㸦",
+    ""
+   ],
+   "newCode": "py"
+  },
+  {
+   "code": "ac",
+   "primary": "齿",
+   "elements": [
+    "齿"
+   ],
+   "newCode": "rc"
+  },
+  {
+   "code": "au",
+   "primary": "爪",
+   "elements": [
+    "爪",
+    "爫"
+   ],
+   "newCode": "xu"
+  },
+  {
+   "code": "ag",
+   "primary": "瓜",
+   "elements": [
+    "瓜"
+   ],
+   "newCode": "mg"
+  },
+  {
+   "code": "ak",
+   "primary": "匚",
+   "elements": [
+    "匚",
+    "",
+    "",
+    "匸"
+   ],
+   "newCode": "ik"
+  },
+  {
+   "code": "aj",
+   "primary": "己",
+   "elements": [
+    "己"
+   ],
+   "newCode": "ej"
+  },
+  {
+   "code": "ai",
+   "primary": "已",
+   "elements": [
+    "已"
+   ],
+   "newCode": "vi"
+  },
+  {
+   "code": "at",
+   "primary": "土",
+   "elements": [
+    "土",
+    ""
+   ],
+   "newCode": "at"
+  },
+  {
+   "code": "as",
+   "primary": "士",
+   "elements": [
+    "士"
+   ],
+   "newCode": "cs"
+  },
+  {
+   "code": "ae",
+   "primary": "者",
+   "elements": [
+    "者",
+    "耂"
+   ],
+   "newCode": "xe"
+  },
+  {
+   "code": "ad",
+   "primary": "豆",
+   "elements": [
+    "豆"
+   ],
+   "newCode": "qd"
+  },
+  {
+   "code": "al",
+   "primary": "鹿",
+   "elements": [
+    "鹿",
+    "",
+    ""
+   ],
+   "newCode": "yl"
+  },
+  {
+   "code": "sy",
+   "primary": "音",
+   "elements": [
+    "音"
+   ],
+   "newCode": "dy"
+  },
+  {
+   "code": "sm",
+   "primary": "木",
+   "elements": [
+    "木",
+    "朩",
+    ""
+   ],
+   "newCode": "sm"
+  },
+  {
+   "code": "sh",
+   "primary": "黑",
+   "elements": [
+    "黑",
+    "黒"
+   ],
+   "newCode": "ph"
+  },
+  {
+   "code": "sb",
+   "primary": "丷",
+   "elements": [
+    "丷",
+    "䒑"
+   ],
+   "newCode": "sb"
+  },
+  {
+   "code": "sj",
+   "primary": "句",
+   "elements": [
+    "句"
+   ],
+   "newCode": "rj"
+  },
+  {
+   "code": "dr",
+   "primary": "日",
+   "elements": [
+    "日",
+    "",
+    "曰",
+    ""
+   ],
+   "newCode": "dr"
+  },
+  {
+   "code": "di",
+   "primary": "自",
+   "elements": [
+    "自"
+   ],
+   "newCode": "ti"
+  },
+  {
+   "code": "ds",
+   "primary": "申",
+   "elements": [
+    "申"
+   ],
+   "newCode": "ps"
+  },
+  {
+   "code": "dy",
+   "primary": "也",
+   "elements": [
+    "也",
+    "尤",
+    "尢"
+   ],
+   "newCode": "gy"
+  },
+  {
+   "code": "do",
+   "primary": "走",
+   "elements": [
+    "走"
+   ],
+   "newCode": "xo"
+  },
+  {
+   "code": "dm",
+   "primary": "米",
+   "elements": [
+    "米",
+    ""
+   ],
+   "newCode": "em"
+  },
+  {
+   "code": "dh",
+   "primary": "吅",
+   "elements": [
+    "吅",
+    "㠯",
+    "回",
+    "囙"
+   ],
+   "newCode": "qh"
+  },
+  {
+   "code": "dg",
+   "primary": "骨",
+   "elements": [
+    "骨",
+    "冎"
+   ],
+   "newCode": "ug"
+  },
+  {
+   "code": "dd",
+   "primary": "龸",
+   "elements": [
+    "龸",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "dd"
+  },
+  {
+   "code": "fn",
+   "primary": "牛",
+   "elements": [
+    "牛",
+    "",
+    "牜"
+   ],
+   "newCode": "bn"
+  },
+  {
+   "code": "fx",
+   "primary": "辛",
+   "elements": [
+    "辛",
+    ""
+   ],
+   "newCode": "fx"
+  },
+  {
+   "code": "fm",
+   "primary": "目",
+   "elements": [
+    "目"
+   ],
+   "newCode": "gm"
+  },
+  {
+   "code": "fs",
+   "primary": "舌",
+   "elements": [
+    "舌",
+    ""
+   ],
+   "newCode": "ms"
+  },
+  {
+   "code": "fe",
+   "primary": "耳",
+   "elements": [
+    "耳",
+    "阝"
+   ],
+   "newCode": "ie"
+  },
+  {
+   "code": "fl",
+   "primary": "六",
+   "elements": [
+    "六"
+   ],
+   "newCode": "gl"
+  },
+  {
+   "code": "fb",
+   "primary": "冫",
+   "elements": [
+    "冫",
+    "勹",
+    "",
+    ""
+   ],
+   "newCode": "fb"
+  },
+  {
+   "code": "gc",
+   "primary": "川",
+   "elements": [
+    "川",
+    "巛",
+    "巜",
+    ""
+   ],
+   "newCode": "ac"
+  },
+  {
+   "code": "gk",
+   "primary": "冂",
+   "elements": [
+    "冂",
+    "囗",
+    "",
+    "",
+    "",
+    "凵"
+   ],
+   "newCode": "ak"
+  },
+  {
+   "code": "gs",
+   "primary": "身",
+   "elements": [
+    "身"
+   ],
+   "newCode": "qs"
+  },
+  {
+   "code": "gi",
+   "primary": "至",
+   "elements": [
+    "至"
+   ],
+   "newCode": "ai"
+  },
+  {
+   "code": "gj",
+   "primary": "甲",
+   "elements": [
+    "甲"
+   ],
+   "newCode": "dj"
+  },
+  {
+   "code": "gn",
+   "primary": "女",
+   "elements": [
+    "女"
+   ],
+   "newCode": "gn"
+  },
+  {
+   "code": "gy",
+   "primary": "由",
+   "elements": [
+    "由",
+    ""
+   ],
+   "newCode": "hy"
+  },
+  {
+   "code": "gh",
+   "primary": "合",
+   "elements": [
+    "合",
+    "亼"
+   ],
+   "newCode": "uh"
+  },
+  {
+   "code": "hw",
+   "primary": "韦",
+   "elements": [
+    "韦",
+    "韋"
+   ],
+   "newCode": "sw"
+  },
+  {
+   "code": "hx",
+   "primary": "小",
+   "elements": [
+    "小",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "ex"
+  },
+  {
+   "code": "hf",
+   "primary": "疋",
+   "elements": [
+    "疋",
+    "",
+    "",
+    "龰"
+   ],
+   "newCode": "zf"
+  },
+  {
+   "code": "hs",
+   "primary": "手",
+   "elements": [
+    "手",
+    "龵",
+    "",
+    "",
+    "",
+    "",
+    "扌"
+   ],
+   "newCode": "hs"
+  },
+  {
+   "code": "hb",
+   "primary": "卜",
+   "elements": [
+    "卜",
+    ""
+   ],
+   "newCode": "mb"
+  },
+  {
+   "code": "he",
+   "primary": "而",
+   "elements": [
+    "而"
+   ],
+   "newCode": "ue"
+  },
+  {
+   "code": "hi",
+   "primary": "乂",
+   "elements": [
+    "乂",
+    "㐅",
+    "乄"
+   ],
+   "newCode": "hi"
+  },
+  {
+   "code": "ji",
+   "primary": "止",
+   "elements": [
+    "止",
+    "",
+    ""
+   ],
+   "newCode": "ki"
+  },
+  {
+   "code": "jb",
+   "primary": "不",
+   "elements": [
+    "不"
+   ],
+   "newCode": "vb"
+  },
+  {
+   "code": "jc",
+   "primary": "屮",
+   "elements": [
+    "屮",
+    "",
+    "䶹",
+    "",
+    ""
+   ],
+   "newCode": "kc"
+  },
+  {
+   "code": "jk",
+   "primary": "口",
+   "elements": [
+    "口"
+   ],
+   "newCode": "jk"
+  },
+  {
+   "code": "kr",
+   "primary": "人",
+   "elements": [
+    "人",
+    "",
+    "入"
+   ],
+   "newCode": "cr"
+  },
+  {
+   "code": "kl",
+   "primary": "立",
+   "elements": [
+    "立",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "zl"
+  },
+  {
+   "code": "ku",
+   "primary": "竹",
+   "elements": [
+    "竹",
+    "",
+    ""
+   ],
+   "newCode": "qu"
+  },
+  {
+   "code": "kg",
+   "primary": "干",
+   "elements": [
+    "干"
+   ],
+   "newCode": "tg"
+  },
+  {
+   "code": "kq",
+   "primary": "且",
+   "elements": [
+    "且",
+    ""
+   ],
+   "newCode": "hq"
+  },
+  {
+   "code": "ke",
+   "primary": "儿",
+   "elements": [
+    "儿",
+    ""
+   ],
+   "newCode": "me"
+  },
+  {
+   "code": "kd",
+   "primary": "大",
+   "elements": [
+    "大",
+    ""
+   ],
+   "newCode": "kd"
+  },
+  {
+   "code": "kc",
+   "primary": "彳",
+   "elements": [
+    "彳",
+    "",
+    "亍"
+   ],
+   "newCode": "uc"
+  },
+  {
+   "code": "lb",
+   "primary": "宀",
+   "elements": [
+    "宀"
+   ],
+   "newCode": "lb"
+  },
+  {
+   "code": "lo",
+   "primary": "舟",
+   "elements": [
+    "舟"
+   ],
+   "newCode": "zo"
+  },
+  {
+   "code": "lj",
+   "primary": "斤",
+   "elements": [
+    "斤",
+    ""
+   ],
+   "newCode": "nj"
+  },
+  {
+   "code": "ld",
+   "primary": "斗",
+   "elements": [
+    "斗",
+    "鬥"
+   ],
+   "newCode": "id"
+  },
+  {
+   "code": "la",
+   "primary": "占",
+   "elements": [
+    "占"
+   ],
+   "newCode": "ka"
+  },
+  {
+   "code": "lx",
+   "primary": "夂",
+   "elements": [
+    "夂",
+    "夊",
+    "攵",
+    ""
+   ],
+   "newCode": "ox"
+  },
+  {
+   "code": "lm",
+   "primary": "莫",
+   "elements": [
+    "莫"
+   ],
+   "newCode": "hm"
+  },
+  {
+   "code": "lu",
+   "primary": "兀",
+   "elements": [
+    "兀",
+    "丌"
+   ],
+   "newCode": "hu"
+  },
+  {
+   "code": "lv",
+   "primary": "玉",
+   "elements": [
+    "玉"
+   ],
+   "newCode": "tv"
+  },
+  {
+   "code": "ls",
+   "primary": "示",
+   "elements": [
+    "示",
+    "礻"
+   ],
+   "newCode": "ds"
+  },
+  {
+   "code": "zg",
+   "primary": "革",
+   "elements": [
+    "革"
+   ],
+   "newCode": "xg"
+  },
+  {
+   "code": "zp",
+   "primary": "皮",
+   "elements": [
+    "皮"
+   ],
+   "newCode": "mp"
+  },
+  {
+   "code": "zn",
+   "primary": "鸟",
+   "elements": [
+    "鸟",
+    "",
+    "",
+    "鳥",
+    ""
+   ],
+   "newCode": "tn"
+  },
+  {
+   "code": "zu",
+   "primary": "乌",
+   "elements": [
+    "乌"
+   ],
+   "newCode": "ou"
+  },
+  {
+   "code": "zh",
+   "primary": "户",
+   "elements": [
+    "户",
+    "戶",
+    "",
+    "戸"
+   ],
+   "newCode": "rh"
+  },
+  {
+   "code": "zj",
+   "primary": "巾",
+   "elements": [
+    "巾"
+   ],
+   "newCode": "uj"
+  },
+  {
+   "code": "zy",
+   "primary": "酉",
+   "elements": [
+    "酉"
+   ],
+   "newCode": "fy"
+  },
+  {
+   "code": "zq",
+   "primary": "酋",
+   "elements": [
+    "酋"
+   ],
+   "newCode": "oq"
+  },
+  {
+   "code": "zv",
+   "primary": "鱼",
+   "elements": [
+    "鱼",
+    "魚"
+   ],
+   "newCode": "uv"
+  },
+  {
+   "code": "zl",
+   "primary": "龙",
+   "elements": [
+    "龙"
+   ],
+   "newCode": "nl"
+  },
+  {
+   "code": "zc",
+   "primary": "辰",
+   "elements": [
+    "辰"
+   ],
+   "newCode": "yc"
+  },
+  {
+   "code": "xk",
+   "primary": "可",
+   "elements": [
+    "可"
+   ],
+   "newCode": "yk"
+  },
+  {
+   "code": "xd",
+   "primary": "歹",
+   "elements": [
+    "歹",
+    "歺",
+    "",
+    "攴"
+   ],
+   "newCode": "ad"
+  },
+  {
+   "code": "xg",
+   "primary": "广",
+   "elements": [
+    "广",
+    "古"
+   ],
+   "newCode": "wg"
+  },
+  {
+   "code": "xq",
+   "primary": "千",
+   "elements": [
+    "千",
+    ""
+   ],
+   "newCode": "fq"
+  },
+  {
+   "code": "xv",
+   "primary": "聿",
+   "elements": [
+    "聿",
+    "肀",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "fv"
+  },
+  {
+   "code": "xh",
+   "primary": "火",
+   "elements": [
+    "火",
+    "虍",
+    "灬"
+   ],
+   "newCode": "xh"
+  },
+  {
+   "code": "xx",
+   "primary": "夕",
+   "elements": [
+    "夕"
+   ],
+   "newCode": "ux"
+  },
+  {
+   "code": "xj",
+   "primary": "景",
+   "elements": [
+    "景"
+   ],
+   "newCode": "gj"
+  },
+  {
+   "code": "xb",
+   "primary": "比",
+   "elements": [
+    "比",
+    ""
+   ],
+   "newCode": "pb"
+  },
+  {
+   "code": "cw",
+   "primary": "文",
+   "elements": [
+    "文"
+   ],
+   "newCode": "zw"
+  },
+  {
+   "code": "cu",
+   "primary": "无",
+   "elements": [
+    "无",
+    "無",
+    "旡",
+    "兂"
+   ],
+   "newCode": "lu"
+  },
+  {
+   "code": "cm",
+   "primary": "皿",
+   "elements": [
+    "皿",
+    "矛"
+   ],
+   "newCode": "xm"
+  },
+  {
+   "code": "cg",
+   "primary": "谷",
+   "elements": [
+    "谷",
+    "高",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "cg"
+  },
+  {
+   "code": "cc",
+   "primary": "虫",
+   "elements": [
+    "虫",
+    ""
+   ],
+   "newCode": "dc"
+  },
+  {
+   "code": "cj",
+   "primary": "卩",
+   "elements": [
+    "卩",
+    "㔾",
+    "",
+    "丩"
+   ],
+   "newCode": "mj"
+  },
+  {
+   "code": "ck",
+   "primary": "开",
+   "elements": [
+    "开"
+   ],
+   "newCode": "xk"
+  },
+  {
+   "code": "cb",
+   "primary": "冖",
+   "elements": [
+    "冖"
+   ],
+   "newCode": "db"
+  },
+  {
+   "code": "cv",
+   "primary": "予",
+   "elements": [
+    "予"
+   ],
+   "newCode": "gv"
+  },
+  {
+   "code": "cl",
+   "primary": "林",
+   "elements": [
+    "林"
+   ],
+   "newCode": "vl"
+  },
+  {
+   "code": "vs",
+   "primary": "矢",
+   "elements": [
+    "矢"
+   ],
+   "newCode": "zs"
+  },
+  {
+   "code": "vq",
+   "primary": "七",
+   "elements": [
+    "七",
+    "",
+    ""
+   ],
+   "newCode": "gq"
+  },
+  {
+   "code": "vu",
+   "primary": "五",
+   "elements": [
+    "五"
+   ],
+   "newCode": "vu"
+  },
+  {
+   "code": "vw",
+   "primary": "王",
+   "elements": [
+    "王",
+    "",
+    "壬",
+    "⺩"
+   ],
+   "newCode": "vw"
+  },
+  {
+   "code": "vy",
+   "primary": "月",
+   "elements": [
+    "月",
+    "",
+    "",
+    "",
+    "冃",
+    ""
+   ],
+   "newCode": "vy"
+  },
+  {
+   "code": "vn",
+   "primary": "乃",
+   "elements": [
+    "乃",
+    ""
+   ],
+   "newCode": "in"
+  },
+  {
+   "code": "vg",
+   "primary": "圭",
+   "elements": [
+    "圭"
+   ],
+   "newCode": "hg"
+  },
+  {
+   "code": "bt",
+   "primary": "田",
+   "elements": [
+    "田"
+   ],
+   "newCode": "bt"
+  },
+  {
+   "code": "bi",
+   "primary": "之",
+   "elements": [
+    "之"
+   ],
+   "newCode": "qi"
+  },
+  {
+   "code": "bd",
+   "primary": "旦",
+   "elements": [
+    "旦"
+   ],
+   "newCode": "wd"
+  },
+  {
+   "code": "bm",
+   "primary": "民",
+   "elements": [
+    "民"
+   ],
+   "newCode": "wm"
+  },
+  {
+   "code": "bj",
+   "primary": "几",
+   "elements": [
+    "几",
+    ""
+   ],
+   "newCode": "kj"
+  },
+  {
+   "code": "bc",
+   "primary": "艹",
+   "elements": [
+    "艹",
+    "",
+    "廾",
+    "卅",
+    "卌",
+    "卝",
+    "丱",
+    "",
+    "卄",
+    ""
+   ],
+   "newCode": "bc"
+  },
+  {
+   "code": "bf",
+   "primary": "缶",
+   "elements": [
+    "缶",
+    ""
+   ],
+   "newCode": "nf"
+  },
+  {
+   "code": "be",
+   "primary": "正",
+   "elements": [
+    "正"
+   ],
+   "newCode": "qe"
+  },
+  {
+   "code": "nq",
+   "primary": "欠",
+   "elements": [
+    "欠"
+   ],
+   "newCode": "rq"
+  },
+  {
+   "code": "nm",
+   "primary": "母",
+   "elements": [
+    "母"
+   ],
+   "newCode": "tm"
+  },
+  {
+   "code": "nu",
+   "primary": "毋",
+   "elements": [
+    "毋"
+   ],
+   "newCode": "bu"
+  },
+  {
+   "code": "ng",
+   "primary": "毌",
+   "elements": [
+    "毌"
+   ],
+   "newCode": "yg"
+  },
+  {
+   "code": "ns",
+   "primary": "生",
+   "elements": [
+    "生",
+    "尸",
+    "",
+    ""
+   ],
+   "newCode": "ns"
+  },
+  {
+   "code": "nx",
+   "primary": "习",
+   "elements": [
+    "习",
+    "心",
+    "忄",
+    ""
+   ],
+   "newCode": "nx"
+  },
+  {
+   "code": "nv",
+   "primary": "羽",
+   "elements": [
+    "羽"
+   ],
+   "newCode": "xv"
+  },
+  {
+   "code": "ny",
+   "primary": "业",
+   "elements": [
+    "业",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "newCode": "ty"
+  },
+  {
+   "code": "ni",
+   "primary": "直",
+   "elements": [
+    "直"
+   ],
+   "newCode": "gi"
+  },
+  {
+   "code": "ne",
+   "primary": "责",
+   "elements": [
+    "责"
+   ],
+   "newCode": "ne"
+  },
+  {
+   "code": "mr",
+   "primary": "亻",
+   "elements": [
+    "亻",
+    ""
+   ],
+   "newCode": "mr"
+  },
+  {
+   "code": "mf",
+   "primary": "夫",
+   "elements": [
+    "夫",
+    "龹"
+   ],
+   "newCode": "vf"
+  },
+  {
+   "code": "mj",
+   "primary": "九",
+   "elements": [
+    "九"
+   ],
+   "newCode": "aj"
+  },
+  {
+   "code": "ml",
+   "primary": "里",
+   "elements": [
+    "里",
+    "圼"
+   ],
+   "newCode": "pl"
+  },
+  {
+   "code": "mw",
+   "primary": "瓦",
+   "elements": [
+    "瓦"
+   ],
+   "newCode": "ww"
+  },
+  {
+   "code": "mg",
+   "primary": "艮",
+   "elements": [
+    "艮",
+    ""
+   ],
+   "newCode": "qg"
+  },
+  {
+   "code": "mt",
+   "primary": "天",
+   "elements": [
+    "天",
+    "夭"
+   ],
+   "newCode": "ut"
+  },
+  {
+   "code": "me",
+   "primary": "",
+   "elements": [
+    "",
+    ""
+   ],
+   "newCode": "ye"
+  },
+  {
+   "code": "ma",
+   "primary": "召",
+   "elements": [
+    "召"
+   ],
+   "newCode": "ga"
+  },
+  {
+   "code": "nc",
+   "primary": "朿",
+   "elements": [
+    "朿"
+   ],
+   "newCode": "jc"
+  },
+  {
+   "code": "jy",
+   "primary": "",
+   "elements": [
+    ""
+   ],
+   "newCode": "yy"
+  }
+ ],
+ "promos": [
+  {
+   "el": "石",
+   "fromGroup": 72,
+   "code": "rs",
+   "freq": 659019
+  },
+  {
+   "el": "肀",
+   "fromGroup": 189,
+   "code": "nv",
+   "freq": 565238
+  },
+  {
+   "el": "巳",
+   "fromGroup": 86,
+   "code": "js",
+   "freq": 469168
+  },
+  {
+   "el": "回",
+   "fromGroup": 127,
+   "code": "nh",
+   "freq": 275593
+  },
+  {
+   "el": "囗",
+   "fromGroup": 138,
+   "code": "kw",
+   "freq": 1884280
+  },
+  {
+   "el": "入",
+   "fromGroup": 156,
+   "code": "xr",
+   "freq": 192539
+  },
+  {
+   "el": "尤",
+   "fromGroup": 124,
+   "code": "oy",
+   "freq": 899422
+  },
+  {
+   "el": "古",
+   "fromGroup": 187,
+   "code": "kg",
+   "freq": 1015256
+  },
+  {
+   "el": "心",
+   "fromGroup": 224,
+   "code": "lx",
+   "freq": 3375572
+  },
+  {
+   "el": "高",
+   "fromGroup": 197,
+   "code": "jg",
+   "freq": 342881
+  },
+  {
+   "el": "饣",
+   "fromGroup": 24,
+   "code": "ks",
+   "freq": 145752
+  },
+  {
+   "el": "牜",
+   "fromGroup": 130,
+   "code": "en",
+   "freq": 557030
+  },
+  {
+   "el": "四",
+   "fromGroup": 1,
+   "code": "ss",
+   "freq": 185379
+  },
+  {
+   "el": "礻",
+   "fromGroup": 173,
+   "code": "ls",
+   "freq": 623948
+  },
+  {
+   "el": "虍",
+   "fromGroup": 190,
+   "code": "mh",
+   "freq": 117589
+  },
+  {
+   "el": "刂",
+   "fromGroup": 98,
+   "code": "nd",
+   "freq": 3423892
+  },
+  {
+   "el": "百",
+   "fromGroup": 68,
+   "code": "jb",
+   "freq": 138811
+  },
+  {
+   "el": "訁",
+   "fromGroup": 77,
+   "code": "ey",
+   "freq": 437221
+  },
+  {
+   "el": "幺",
+   "fromGroup": 14,
+   "code": "ny",
+   "freq": 184241
+  },
+  {
+   "el": "夭",
+   "fromGroup": 235,
+   "code": "xy",
+   "freq": 212213
+  },
+  {
+   "el": "吉",
+   "fromGroup": 15,
+   "code": "sj",
+   "freq": 241174
+  },
+  {
+   "el": "勹",
+   "fromGroup": 136,
+   "code": "cb",
+   "freq": 9004894
+  },
+  {
+   "el": "亼",
+   "fromGroup": 144,
+   "code": "hj",
+   "freq": 584253
+  },
+  {
+   "el": "衤",
+   "fromGroup": 61,
+   "code": "zi",
+   "freq": 430468
+  },
+  {
+   "el": "白",
+   "fromGroup": 10,
+   "code": "rb",
+   "freq": 8790389
+  },
+  {
+   "el": "页",
+   "fromGroup": 49,
+   "code": "zy",
+   "freq": 923306
+  },
+  {
+   "el": "彡",
+   "fromGroup": 79,
+   "code": "ws",
+   "freq": 642222
+  },
+  {
+   "el": "犭",
+   "fromGroup": 99,
+   "code": "lq",
+   "freq": 397060
+  },
+  {
+   "el": "匕",
+   "fromGroup": 23,
+   "code": "kb",
+   "freq": 3072149
+  },
+  {
+   "el": "三",
+   "fromGroup": 86,
+   "code": "bs",
+   "freq": 452141
+  },
+  {
+   "el": "攵",
+   "fromGroup": 169,
+   "code": "lp",
+   "freq": 2090813
+  },
+  {
+   "el": "凵",
+   "fromGroup": 138,
+   "code": "bk",
+   "freq": 1144885
+  },
+  {
+   "el": "毛",
+   "fromGroup": 30,
+   "code": "qm",
+   "freq": 175006
+  },
+  {
+   "el": "未",
+   "fromGroup": 92,
+   "code": "xw",
+   "freq": 1361848
+  },
+  {
+   "el": "采",
+   "fromGroup": 81,
+   "code": "tc",
+   "freq": 116179
+  },
+  {
+   "el": "亦",
+   "fromGroup": 17,
+   "code": "yi",
+   "freq": 66085
+  },
+  {
+   "el": "灬",
+   "fromGroup": 190,
+   "code": "hh",
+   "freq": 1175948
+  },
+  {
+   "el": "廾",
+   "fromGroup": 216,
+   "code": "fg",
+   "freq": 318107
+  },
+  {
+   "el": "丬",
+   "fromGroup": 60,
+   "code": "wq",
+   "freq": 520327
+  },
+  {
+   "el": "阝",
+   "fromGroup": 134,
+   "code": "ff",
+   "freq": 3354193
+  },
+  {
+   "el": "覀",
+   "fromGroup": 70,
+   "code": "rx",
+   "freq": 926391
+  },
+  {
+   "el": "水",
+   "fromGroup": 79,
+   "code": "gs",
+   "freq": 330925
+  }
+ ],
+ "metrics": {
+  "cd2_1500": 668,
+  "w2_1500": 75.77180487813676,
+  "sc_1501_3000": 0,
+  "sc_total": 414,
+  "sc_1500": 0,
+  "prefixes": 676
+ }
+}
