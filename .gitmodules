@@ -1,0 +1,21 @@
+[submodule "chai"]
+	path = chai
+	url = https://github.com/hanzi-chai/chai.git
+[submodule "chai-font"]
+	path = chai-font
+	url = https://github.com/hanzi-chai/chai-font.git
+[submodule "code_genie"]
+	path = code_genie
+	url = https://github.com/hertz-hwang/code_genie.git
+[submodule "diagram"]
+	path = diagram
+	url = https://github.com/hanzi-chai/diagram.git
+[submodule "frequency"]
+	path = frequency
+	url = https://github.com/hanzi-chai/frequency.git
+[submodule "libchai"]
+	path = libchai
+	url = https://github.com/hanzi-chai/libchai.git
+[submodule "sanma"]
+	path = sanma
+	url = https://github.com/xqhjay/sanma.git

@@ -9,6 +9,9 @@ const localStorage = {
 
 ug={"⿰":2,"⿱":2,"⿲":3,"⿳":3,"⿴":2,"⿵":2,"⿶":2,"⿷":2,"⿸":2,"⿹":2,"⿺":2,"⿻":2}
 
+function ka(e){return e?{main:e[0],sub:e.length>1?e[1]:void 0,supplement:e.length>2?e.slice(2):void 0}:{main:""}}function GA(e){return e.main+(e.sub||"")+(e.supplement||"")}
+const fg="chars_hijack_roots";
+
 class bn{constructor(t=null,A=null,n=[]){this.char=t,this.op=A,this.children=n}isLeaf(){return this.char!==null}leaves(){if(this.isLeaf())return[this.char];const t=[];for(const A of this.children)t.push(...A.leaves());return t}toIDS(){return this.isLeaf()?this.char:this.op+this.children.map(t=>t.toIDS()).join("")}depth(){return this.isLeaf()?0:1+Math.max(...this.children.map(t=>t.depth()),0)}}function Tn(e){let t=0;function A(){if(t>=e.length)return null;const n=e[t];if(ug[n]!==void 0){const l=ug[n];t++;const i=[];for(let a=0;a<l;a++){const u=A();u&&i.push(u)}return new bn(null,n,i)}if(n==="{"){let l=e.indexOf("}",t);l<0&&(l=e.length);const i=e.substring(t,l+1);return t=l+1,new bn(i)}const s=e.codePointAt(t),r=String.fromCodePoint(s);return t+=r.length,new bn(r)}return A()}
 
 const Iy=[[11904,12019,"部首補充"],[12032,12245,"康熙部首"],[12272,12287,"汉字结构"],[12295,12773,"汉字笔画"],[12549,12591,"注音符号"],[12704,12735,"注音扩展"],[13179,13183,"兼容字符"],[13312,19903,"CJK-A"],[19968,40959,"CJK"],[63744,64217,"兼容文字"],[94194,94195,"儿化小字"],[94208,100343,"西夏文"],[100352,101119,"西夏文部件"],[101120,101589,"契丹小字"],[101631,101631,"契丹小字"],[101632,101662,"西夏文补充"],[131072,173791,"CJK-B"],[173824,177983,"CJK-C"],[177984,178205,"CJK-D"],[178208,183981,"CJK-E"],[183984,191456,"CJK-F"],[191472,192093,"CJK-I"],[194560,195101,"兼容補充"],[196608,201546,"CJK-G"],[201552,205743,"CJK-H"],[205744,210041,"CJK-J"]];function Mf(e){if(e.startsWith("{"))return"特殊";const t=e.codePointAt(0)??0;for(const[A,n,s]of Iy)if(t>=A&&t<=n)return s;return"其他"}function Ao(e){return e.startsWith("{")?e:"U+"+(e.codePointAt(0)??0).toString(16).toUpperCase().padStart(4,"0")}

@@ -111,7 +111,10 @@ function buildToNode(spec, captures) {
 class Transformer {
   constructor(rules) {
     this.rules = rules.map(r => ({ from: patternToNode(r.from), to: r.to }));
+    this._listeners = [];
   }
+  onRulesChange(fn) { this._listeners.push(fn); }
+  getRules() { return this.rules.map(r => ({ from: r.from, to: r.to })); }
   getNamedRoots() {
     const s = new Set();
     for (const r of this.rules) this._collectChars(r.to, s);
@@ -152,7 +155,17 @@ function main() {
 
   // 1. 引擎数据加载
   const data = new nb();
-  data.loadSkyIDS(fs.readFileSync('/workspace/chs_data/sky_ids.txt', 'utf-8'));
+  // {name} -> PUA 预处理 (sky_ids 的 {名字根} 转为 PUA 字符)
+  let idsText = fs.readFileSync('/workspace/chs_data/sky_ids.txt', 'utf-8');
+  const r2p = JSON.parse(fs.readFileSync('/workspace/data_roots2pua.json', 'utf-8'));
+  // {X} 若 X 本身是普通字根 (如 {巴}) 则去括号
+  idsText = idsText.replace(/\{[^}]+\}/g, (m) => {
+    if (r2p[m] !== undefined) return r2p[m];
+    const inner = m.slice(1, -1);
+    if (rootCodes.has(inner)) return inner;
+    return m; // 保留未知 token
+  });
+  data.loadSkyIDS(idsText);
   data.loadStrokes(fs.readFileSync('/workspace/chs_data/stroke.txt', 'utf-8'));
   data.loadFreq(fs.readFileSync('/workspace/chs_data/kc6000.txt', 'utf-8'));
   data.loadDict(fs.readFileSync('/workspace/chs_data/dictionary.txt', 'utf-8'));
@@ -223,7 +236,7 @@ function main() {
   }
 
   // 7. 对参考码表中的所有字计算
-  const tablePath = args.find(a => a.startsWith('--table='))?.slice(8) || '/workspace/sanma/奕码四二顶-官方最新修正版-1.2.txt';
+  const tablePath = args.find(a => a.startsWith('--table='))?.slice(8) || '/workspace/奕码四二顶-官方最新修正版-1.2.txt';
   const tableChars = [];
   const official = new Map();
   for (const line of fs.readFileSync(tablePath, 'utf-8').split('\n')) {
